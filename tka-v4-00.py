@@ -4,10 +4,13 @@ TK Assistant V4.0 April 2nd 2021
 Freeware, but (c) By Steve Shambles.
 https://stevepython.wordpress.com/
 
+Written in Python V3.76 64bit AMD Windows version.
+
 pip3 install pyperclip
-pip install tkcalendar
-pip install Pillow
-pip install tk_tools
+pip3 install tkcalendar
+pip3 install Pillow
+pip3 install tk_tools
+pip3 install wget
 
 Needed to run examples:
 -----------------------
@@ -440,7 +443,7 @@ def combo_buttons():
     sel_item = btns_combo.get()
     if sel_item == 'BUTTONS':
         return
-    
+
     if sel_item == 'Check Buttons':
         get_source_code(r'squirts\buttons\check_button.py')
 
