@@ -11,7 +11,8 @@ requirements.
 
 Windows Only.
 
+![Alt text](https://i.postimg.cc/nc1jL1fc/screenshot-tka4-001-main.png)
 
-https://i.postimg.cc/nc1jL1fc/screenshot-tka4-001-main.png
+
 
 
