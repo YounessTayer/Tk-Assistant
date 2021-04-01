@@ -1,4 +1,4 @@
-# Tk-Assistant V4.0 April 2021
+# Tk-Assistant V4.1 April 2021
 
 The idea of Tk Assistant is to help beginners that are learning to create GUI's with Python and Tkinter for the first time.
 
