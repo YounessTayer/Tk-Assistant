@@ -9,7 +9,7 @@ The 55 code examples (squirts) supplied are all self-contained, so can be experi
 You will soon find it fairly simple to start joining the code examples together to make your own GUI's and then edit and improve or change the code to your
 requirements.
 
-Windows Only.
+The GUI is Windows Only, but the code example can run on Linux.
 
 ![Alt text](https://i.postimg.cc/nc1jL1fc/screenshot-tka4-001-main.png)
 
